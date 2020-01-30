@@ -1,4 +1,4 @@
-# Advanced-regression-techniques
+# Advanced Regression Techniques for House Price Prediction
 
 #### Authors: Srikanth Babu Mandru
 
